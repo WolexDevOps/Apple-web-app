@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over millionaires in IT.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">It's that season of the year again to make merry and be joyful and at Apple, we live for moments like this.</h1>
+<h1 align="center">With family being at the core of everything we do, we're glad to announce a 30% discount on all eligible* purchases this holiday** season. Use code BoxingDay30 at checkout and the discounts will be automatically applied.</h1>
+<h1 align="center">*Valid only on Apple Iphone 14, Apple Watch Series 8, Apple Watch Ultra, Apple Watch SE (2022) and ipad 2022 series. All other terms and conditions apply</h1>
+<h1 align="center">**sale starts 00:00:01 EST on 26 Dec 2022 till 23:59:59 on 26 Dec 2022 only.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
