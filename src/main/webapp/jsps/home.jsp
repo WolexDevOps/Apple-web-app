@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 align="center">It's that season of the year again to make merry and be joyful and at Apple, we live for moments like this.</h1>
-<h1 align="center">With family being at the core of everything we do, we're glad to announce a 30% discount on all eligible* purchases this holiday** season. Use code BoxingDay30 at checkout and the discounts will be automatically applied.</h1>
-<h1 align="center">*Valid only on Apple Iphone 14, Airpods Pro (2nd Generation), Apple Watch Series 8, Apple Watch Ultra, Apple Watch SE (2022) and ipad 2022 series. All other terms and conditions apply</h1>
-<h1 align="center">**Sale starts 00:00:01 EST on Dec 26th 2022 till 23:59:59 on Dec 26th 2022 only.</h1>
+With family being at the core of everything we do, we're glad to announce a 30% discount on all eligible* purchases this holiday** season. Use code BoxingDay30 at checkout and the discounts will be automatically applied.
+*Valid only on Apple Iphone 14, Airpods Pro (2nd Generation), Apple Watch Series 8, Apple Watch Ultra, Apple Watch SE (2022) and ipad 2022 series. All other terms and conditions apply
+**Sale starts 00:00:01 EST on Dec 26th 2022 till 23:59:59 on Dec 26th 2022 only.
 <h1 align=center>From all of us at Apple, we wish you a merry christmas and a super prosperous year 2023</h1>
 <hr>
 <br>
