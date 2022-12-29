@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Appletest-web-app1</finalName>
+		<finalName>Apple-web-app1a</finalName>
 		
 		<plugins>
 			<plugin>
